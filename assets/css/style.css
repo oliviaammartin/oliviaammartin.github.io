@@ -77,6 +77,7 @@ a:hover {
   color: var(--profile-link-color);
   font-weight: 500;
   text-decoration: none;
+  margin-right: 1rem;
 }
 
 .profile-links a:hover {

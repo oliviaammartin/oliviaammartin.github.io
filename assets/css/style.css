@@ -23,11 +23,11 @@ nav a {
   font-weight: 500;
 }
 
-.profile-links a {
+a {
   color: #2a7fff;
 }
 
-.profile-links a:hover {
+a:hover {
   color: #e63946;
 }
 

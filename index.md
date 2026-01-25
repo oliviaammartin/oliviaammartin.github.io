@@ -3,14 +3,13 @@ layout: default
 title: Home
 ---
 
-# Olivia Martin
+# Olivia A. M. Martin
 
-PhD student in computational chemistry focusing on molecular simulations, vibrational energy relaxation, and interfacial water.
+PhD student in computational chemistry...
 
 ## Research Interests
 - Path integral molecular dynamics
 - Vibrational spectroscopy
-- Astrobiology-relevant chemistry
 
 ## Links
 - [GitHub](https://github.com/yourusername)

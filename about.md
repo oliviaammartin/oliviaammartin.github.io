@@ -8,21 +8,24 @@ title: About
 
   <div class="profile-text">
     <h1>Olivia Martin</h1>
-    <p>I am a PhD student in computational chemistry focused on ....</p>
+    <p>I am a PhD student in computational chemistry...</p>
     <p>I enjoy ...</p>
   </div>
 </div>
 
-## Photos
+## Conference Photos
 
-<div class="about-row">
-  <div class="about-image-container">
-    ![Lab photo](/assets/images/photo1.jpg){: .about-image }
-    <p class="about-caption">Working in the lab during my research project</p>
-  </div>
+<div class="photo-row">
+  <img src="/assets/images/indusconference.jpeg" alt="Conference 1" class="about-grid-image">
+  <img src="/assets/images/holderness.jpeg" alt="Conference 2" class="about-grid-image">
+  <img src="/assets/images/abgradcon.jpg" alt="Conference 3" class="about-grid-image">
+</div>
 
-  <div class="about-image-container">
-    ![Conference photo](/assets/images/photo2.jpg){: .about-image }
-    <p class="about-caption">Presenting at an international conference</p>
-  </div>
+## Lab / Research Photos
+
+<div class="photo-row">
+  <img src="/assets/images/coffee1.jpeg" alt="Lab 1" class="about-grid-image">
+  <img src="/assets/images/livines.jpg" alt="Lab 2" class="about-grid-image">
+  <img src="/assets/images/coffee2.jpeg" alt="Lab 3" class="about-grid-image">
+  <img src="/assets/images/italyvines.jpg" alt="Lab 4" class="about-grid-image">
 </div>

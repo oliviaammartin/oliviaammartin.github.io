@@ -1,6 +1,29 @@
+/* =========================
+   Color & style variables
+   ========================= */
+:root {
+  --bg-color: #fefdfa;
+  --text-color: #0a0a0a;
+
+  --heading-color: #0f3f6b;
+
+  --nav-link-color: #0f3f6b;
+  --nav-link-hover: #aa0000;
+
+  --link-color: #0055aa;
+  --link-hover-color: #aa0000;
+
+  --profile-link-color: #2a7fff;
+  --profile-link-hover: #e63946;
+}
+
+/* =========================
+   Base layout
+   ========================= */
 body {
-  background-color: #fefdfa;
-  color: #0a0a0a;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+
   font-family: system-ui, -apple-system, sans-serif;
   max-width: 900px;
   margin: auto;
@@ -8,30 +31,62 @@ body {
   line-height: 1.6;
 }
 
+/* =========================
+   Headings
+   ========================= */
 h1, h2, h3 {
-  color: #0f3f6b;
+  color: var(--heading-color);
+  margin-top: 2rem;
 }
 
+/* =========================
+   Navigation bar
+   ========================= */
 nav {
   margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #ddd;
 }
 
 nav a {
-  color: #0f3f6b;
-  margin-right: 1rem;
+  color: var(--nav-link-color);
   text-decoration: none;
+  margin-right: 1rem;
   font-weight: 500;
 }
 
+nav a:hover {
+  color: var(--nav-link-hover);
+}
+
+/* =========================
+   General links
+   ========================= */
 a {
-  color: #2a7fff;
+  color: var(--link-color);
 }
 
 a:hover {
-  color: #e63946;
+  color: var(--link-hover-color);
 }
 
+/* =========================
+   Profile links (GitHub, Scholar, Email)
+   ========================= */
+.profile-links a {
+  color: var(--profile-link-color);
+  font-weight: 500;
+  text-decoration: none;
+}
 
+.profile-links a:hover {
+  color: var(--profile-link-hover);
+  text-decoration: underline;
+}
+
+/* =========================
+   Footer
+   ========================= */
 footer {
   margin-top: 4rem;
   color: #666;

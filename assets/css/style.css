@@ -1,4 +1,6 @@
 body {
+  background-color: #fefaf1;
+  color: #0a0a0a;
   font-family: system-ui, -apple-system, sans-serif;
   max-width: 900px;
   margin: auto;
@@ -6,14 +8,23 @@ body {
   line-height: 1.6;
 }
 
+h1, h2, h3 {
+  color: #234a27;
+}
+
 nav {
   margin-bottom: 2rem;
 }
 
 nav a {
+  color: #24415c;
   margin-right: 1rem;
   text-decoration: none;
   font-weight: 500;
+}
+
+nav a:hover {
+    color: 
 }
 
 footer {

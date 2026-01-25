@@ -96,6 +96,22 @@ a:hover {
   font-size: 1.1rem;
 }
 
+.cv-download {
+  display: inline-block;
+  margin-bottom: 1rem;
+  padding: 0.4rem 0.8rem;
+  background-color: var(--profile-link-color);
+  color: white;
+  border-radius: 6px;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.cv-download:hover {
+  background-color: var(--profile-link-hover);
+}
+
+
 /* =========================
    Footer
    ========================= */

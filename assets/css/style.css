@@ -1,5 +1,5 @@
 body {
-  background-color: #fefaf1;
+  background-color: #fefdfa;
   color: #0a0a0a;
   font-family: system-ui, -apple-system, sans-serif;
   max-width: 900px;
@@ -9,7 +9,7 @@ body {
 }
 
 h1, h2, h3 {
-  color: #234a27;
+  color: #0f3f6b;
 }
 
 nav {
@@ -17,14 +17,19 @@ nav {
 }
 
 nav a {
-  color: #24415c;
+  color: #0f3f6b;
   margin-right: 1rem;
   text-decoration: none;
   font-weight: 500;
 }
 
-nav a:hover {
-    color: #2cc93c;
+.profile-link {
+  color: #2a7fff;
+  font-weight: 500;
+}
+
+.profile-link:hover {
+  color: #e63946;
 }
 
 footer {

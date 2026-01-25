@@ -172,7 +172,7 @@ a:hover {
 
 /* Hover effect */
 .about-grid-image:hover {
-  transform: scale(1.50);
+  transform: scale(1.25);
 }
 
 /* =========================

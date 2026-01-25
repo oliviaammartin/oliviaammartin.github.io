@@ -12,6 +12,9 @@
 
   --link-color: #577897;
   --link-hover-color: #6b0f11;
+
+  --profile-link-color: #577897;
+  --profile-link-hover: #6b0f11;
 }
 
 /* =========================
@@ -65,6 +68,22 @@ a {
 
 a:hover {
   color: var(--link-hover-color);
+}
+
+/* =========================
+   Profile links (GitHub / Scholar / Email)
+   ========================= */
+.profile-links a {
+  display: inline-block;
+  margin-right: 1rem;
+  color: var(--profile-link-color);
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.profile-links a:hover {
+  color: var(--profile-link-hover);
+  text-decoration: underline;
 }
 
 /* =========================

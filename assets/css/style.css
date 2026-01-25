@@ -167,12 +167,12 @@ a:hover {
 }
 
 .photo-row:nth-of-type(2) .about-grid-image {
-  flex: 1 1 calc((100%/4) - 0.75rem); /* 4 images in second row */
+  flex: 1 1 calc((100%/3) - 0.66rem); /* 3 images in second row */
 }
 
 /* Hover effect */
 .about-grid-image:hover {
-  transform: scale(1.05);
+  transform: scale(1.25);
 }
 
 /* =========================

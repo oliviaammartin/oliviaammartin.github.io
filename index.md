@@ -15,3 +15,11 @@ PhD student in computational chemistry...
 - [GitHub](https://github.com/yourusername)
 - [Google Scholar](#)
 - [Email](mailto:olivia.martin@rutgers.edu)
+
+<div class="profile-links">
+
+[GitHub](https://github.com/yourusername)  
+[Google Scholar](https://scholar.google.com)  
+[Email](mailto:your@email.edu)
+
+</div>

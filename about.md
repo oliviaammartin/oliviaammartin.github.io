@@ -27,5 +27,4 @@ title: About
   <img src="/assets/images/coffee1.jpeg" alt="Lab 1" class="about-grid-image">
   <img src="/assets/images/livines.jpg" alt="Lab 2" class="about-grid-image">
   <img src="/assets/images/coffee2.jpeg" alt="Lab 3" class="about-grid-image">
-  <img src="/assets/images/italyvines.jpeg" alt="Lab 4" class="about-grid-image">
 </div>

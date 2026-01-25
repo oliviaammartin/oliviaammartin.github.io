@@ -23,14 +23,14 @@ nav a {
   font-weight: 500;
 }
 
-.profile-link {
+.profile-links a {
   color: #2a7fff;
-  font-weight: 500;
 }
 
-.profile-link:hover {
+.profile-links a:hover {
   color: #e63946;
 }
+
 
 footer {
   margin-top: 4rem;

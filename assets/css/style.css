@@ -150,7 +150,7 @@ a:hover {
   flex-wrap: nowrap;
   justify-content: center;
   gap: 1rem;
-  margin-bottom: 2rem;
+  margin-bottom: 2.5rem;
 }
 
 .about-grid-image {
@@ -168,6 +168,15 @@ a:hover {
 
 .photo-row:nth-of-type(2) .about-grid-image {
   flex: 1 1 calc((100%/3) - 0.66rem); /* 3 images in second row */
+}
+
+/* Captions */
+.photo-item figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  font-style: italic;
+  color: #555;
+  line-height: 1.3;
 }
 
 /* Hover effect */

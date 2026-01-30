@@ -15,41 +15,39 @@ title: About
 
 ## Conference Photos
 
-<div class="photo-row">
+<div class="photo-row conference">
   <figure class="photo-item">
-     <img src="/assets/images/indusconference.jpg" alt="Conference 1" class="about-grid-image">
+     <img src="/assets/images/indusconference.jpg" alt="Conference 1">
     <figcaption>Water and Aqueous Solutions Gordon Research Conference, Holderness, NH, 2024</figcaption>
   </figure>
     
   <figure class="photo-item">
-    <img src="/assets/images/holderness.jpeg" alt="Conference 2" class="about-grid-image">
+    <img src="/assets/images/holderness.jpeg" alt="Conference 2">
     <figcaption>Conference Relaxation, Holderness, NH</figcaption>
   </figure>
     
   <figure class="photo-item">
-     <img src="/assets/images/abgradcon.jpeg" alt="Conference 3" class="about-grid-image">
+     <img src="/assets/images/abgradcon.jpeg" alt="Conference 3">
     <figcaption>Astrobiology Graduate Conference, Boulder, CO, 2025</figcaption>
-  </figure>
-    
+  </figure>   
 </div>
 
 ## Outside of the Lab
 
-<div class="photo-row">
+<div class="photo-row hobby">
   <figure class="photo-item">
-     <img src="/assets/images/coffee1.jpeg" alt="Hobby 1" class="about-grid-image">
+     <img src="/assets/images/coffee1.jpeg" alt="Hobby 1">
     <figcaption>Cappuccino, Princeton, NJ</figcaption>
   </figure>
     
   <figure class="photo-item">
-    <img src="/assets/images/livines.jpg" alt="Hobby 2" class="about-grid-image">
+    <img src="/assets/images/livines.jpg" alt="Hobby 2">
     <figcaption>Vineyard, North Fork, Long Island, NY</figcaption>
   </figure>
     
   <figure class="photo-item">
-     <img src="/assets/images/coffee2.jpeg" alt="Hobby 3" class="about-grid-image">
+     <img src="/assets/images/coffee2.jpeg" alt="Hobby 3">
     <figcaption>Coffee and Chai, San Antonio, TX</figcaption>
   </figure>
-    
 </div>
 

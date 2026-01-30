@@ -8,7 +8,7 @@ title: About
 
   <div class="profile-text">
     <h1>Olivia Martin</h1>
-    <p>I am a PhD student in computational chemistry...</p>
+    <p>I am a Ph.D. Candidate in the Remsing Lab at Rutgers University. </p>
     <p>I enjoy ...</p>
   </div>
 </div>

@@ -38,7 +38,7 @@ title: About
 <div class="photo-row">
   <figure class="photo-item">
      <img src="/assets/images/coffee1.jpeg" alt="Hobby 1" class="about-grid-image">
-    <figcaption>Cappucino, Princeton, NJ</figcaption>
+    <figcaption>Cappuccino, Princeton, NJ</figcaption>
   </figure>
     
   <figure class="photo-item">

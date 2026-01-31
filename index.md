@@ -3,8 +3,14 @@ layout: default
 title: Home
 ---
 
-<div class="home-profile">
-  <img src="/assets/images/profile.jpg" alt="Olivia Martin" class="home-profile-photo">
+<div class="home-hero">
+  <img src="/assets/images/profile.jpg"
+       alt="Olivia Martin"
+       class="home-photo profile-photo">
+
+  <img src="/assets/images/simsummary.jpg"
+       alt="Simulation summary"
+       class="home-photo sim-photo">
 </div>
 
 # Olivia A. M. Martin

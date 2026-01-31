@@ -122,20 +122,14 @@ a:hover {
 
 /* Shared photo styling */
 .home-photo {
-  height: 260px;
+  height: 200px;
   object-fit: cover;
   box-shadow: 0 3px 10px rgba(0,0,0,0.25);
 }
 
-/* Left profile photo */
-.profile-photo {
-  width: 25%;
-  border-radius: 50%;
-}
-
 /* Right simulation summary photo */
 .sim-photo {
-  width: 75%;
+  width: 100%;
   border-radius: 12px;
 }
 

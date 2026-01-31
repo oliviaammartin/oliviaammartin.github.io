@@ -3,6 +3,10 @@ layout: default
 title: Home
 ---
 
+<div class="home-profile">
+  <img src="/assets/images/profile.jpg" alt="Olivia Martin" class="home-profile-photo">
+</div>
+
 # Olivia A. M. Martin
 
 PhD student in computational chemistry...

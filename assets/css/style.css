@@ -112,6 +112,52 @@ a:hover {
 }
 
 
+/* ===== Home hero images ===== */
+.home-hero {
+  display: flex;
+  gap: 1.5rem;
+  margin: 2rem 0;
+  align-items: stretch; /* forces equal height */
+}
+
+/* Shared photo styling */
+.home-photo {
+  height: 260px;
+  object-fit: cover;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.25);
+}
+
+/* Left profile photo */
+.profile-photo {
+  width: 25%;
+  border-radius: 50%;
+}
+
+/* Right simulation summary photo */
+.sim-photo {
+  width: 75%;
+  border-radius: 12px;
+}
+
+/* === for mobile === */
+@media (max-width: 768px) {
+  .home-hero {
+    flex-direction: column;
+  }
+
+  .home-photo {
+    width: 100%;
+    height: 220px;
+  }
+
+  .profile-photo {
+    border-radius: 50%;
+    align-self: center;
+    max-width: 220px;
+  }
+}
+/* === end for mobile === */
+
 /* ===== Profile photo + text ===== */
 .about-profile {
   display: flex;

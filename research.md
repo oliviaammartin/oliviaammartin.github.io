@@ -5,11 +5,14 @@ title: Research
 
 
 
-### Nuclear Quantum Effects at Water-Mineral Interfaces
-
-
 
 ### Thermodynamics of Lipid Assembly Formations
+
+
+
+
+
+### Nuclear Quantum Effects at Water-Mineral Interfaces
 
 
 

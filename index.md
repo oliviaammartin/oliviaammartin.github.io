@@ -23,7 +23,7 @@ Ph.D. Candidate in the Remsing Lab at Rutgers University.
 
 
 <div class="home-sim">
-  <img src="/assets/images/simsummary.jpg"
+  <img src="/assets/images/micelle-mineral.jpg"
        alt="Simulation summary"
        class="home-sim-image">
 </div>

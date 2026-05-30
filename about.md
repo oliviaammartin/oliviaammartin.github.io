@@ -27,8 +27,8 @@ title: About
   </figure>
     
   <figure class="photo-item">
-     <img src="/assets/images/abgradcon.jpeg" alt="Conference 3">
-    <figcaption>Astrobiology Graduate Conference, Boulder, CO, 2025</figcaption>
+     <img src="/assets/images/abscicon.jpg" alt="Conference 3">
+    <figcaption>Astrobiology Science Conference, Madison, WI, 2026</figcaption>
   </figure>   
 </div>
 

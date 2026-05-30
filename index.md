@@ -5,21 +5,13 @@ title: Home
 
 # Olivia A. M. Martin
 
-Ph.D. Candidate in the Remsing Lab at Rutgers University.
+Ph.D. Candidate in the Remsing Lab
+Department of Chemistry and Chemical Biology, Rutgers University
 
 ## Research Interests
 - Nuclear quantum effects, water-mineral interfaces, hydrogen bonding structure and dynamics, computational spectroscopy
 - Membrane-mineral interfaces, thermodynamic theory, prebiotic chemistry, origins of life
 - Molecular dynamics simulations, path integral molecular dynamics, enhanced sampling techniques, statistical mechanics
-
-### Nuclear Quantum Effects at Water-Mineral Interfaces
-
-
-
-### Thermodynamics of Lipid Assembly Formations
-
-
-
 
 
 <div class="home-sim">

@@ -8,9 +8,9 @@ title: Home
 Ph.D. Candidate in the Remsing Lab at Rutgers University.
 
 ## Research Interests
-- Molecular dynamics simulations, path integral molecular dynamics, enhanced sampling techniques, machine learning
 - Nuclear quantum effects, water-mineral interfaces, hydrogen bonding structure and dynamics, computational spectroscopy
 - Membrane-mineral interfaces, thermodynamic theory, prebiotic chemistry, origins of life
+- Molecular dynamics simulations, path integral molecular dynamics, enhanced sampling techniques, statistical mechanics
 
 ### Nuclear Quantum Effects at Water-Mineral Interfaces
 

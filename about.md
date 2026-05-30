@@ -7,7 +7,7 @@ title: About
   <img src="/assets/images/profile.jpg" alt="Olivia Martin" class="profile-photo">
 
   <div class="profile-text">
-    <h1>Olivia Martin</h1>
+    <h1>Olivia A. M. Martin</h1>
     <p>I am a Ph.D. Candidate in the <a href="https://remsinglab.com/" target="_blank" rel="noopener">Remsing Lab</a> at <a href="https://www.rutgers.edu/" target="_blank" rel="noopener">Rutgers University</a>. Prior to the Remsing Lab, I obtained my B.S. in Chemistry from <a href="https://www.rit.edu/" target="_blank" rel="noopener">Rochester Institute of Technology</a> (RIT) in 2022. While at RIT, I was an Undergraduate Researcher in the <a href="https://www.rit.edu/directory/ncesch-nathan-eddingsaas" target="_blank" rel="noopener">Eddingsaas Lab</a>, focusing on the environmental impacts of chemical and physical degradation of microplastics. I continued my research as an Emerson Summer Undergraduate Research Fellow. After graduating with my B.S., I joined the Remsing Lab as a Graduate Intern in July 2022 and officially joined as a Member in December 2022. In the Spring of 2024, I successfully completed my candidacy exams and reached Ph.D. Candidacy.</p>
     <p>Outside of the lab, I enjoy cooking and experiencing new adventures with my husband. I enjoy learning about coffee and wine from around the world, and I hope to continue to travel to wine regions across the globe.</p>
   </div>

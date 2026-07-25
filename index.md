@@ -5,7 +5,7 @@ title: Home
 
 # Olivia A. M. Martin
 
-Ph.D. Candidate in the Remsing Lab
+Ph.D. Candidate in the Remsing Lab  
 Department of Chemistry and Chemical Biology, Rutgers University
 
 ## Research Interests

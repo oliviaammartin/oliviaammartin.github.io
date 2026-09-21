@@ -17,7 +17,7 @@ title: About
 
 <div class="photo-row conference">
   <figure class="photo-item">
-     <img src="/assets/images/indusconference.jpg" alt="Conference 1">
+     <img src="/assets/images/abscicon-close.jpg" alt="Conference 1">
     <figcaption>Water and Aqueous Solutions Gordon Research Conference, Holderness, NH, 2024</figcaption>
   </figure>
     

@@ -18,12 +18,12 @@ title: About
 <div class="photo-row conference">
   <figure class="photo-item">
      <img src="/assets/images/abscicon-close.jpg" alt="Conference 1">
-    <figcaption>Water and Aqueous Solutions Gordon Research Conference, Holderness, NH, 2024</figcaption>
+    <figcaption>Oral Presentation at the 2026 AbSciCon, Madison, WI, 2026</figcaption>
   </figure>
     
   <figure class="photo-item">
     <img src="/assets/images/holderness.jpeg" alt="Conference 2">
-    <figcaption>Conference Relaxation, Holderness, NH</figcaption>
+    <figcaption>Conference Relaxation at the 2026 Water and Aqueous Solutions Gordon Research Conference, Holderness, NH</figcaption>
   </figure>
     
   <figure class="photo-item">

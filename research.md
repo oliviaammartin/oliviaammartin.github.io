@@ -7,10 +7,11 @@ title: Research
 
 Nuclear quantum effects (NQEs) introduce significant structural and dynamical differences between water and heavy water at the alumina mineral interface, compared to their bulk counterparts. Water's OH and OD bond vibration frequencies and intermolecular couplings of water and heavy water differ significantly at the mineral surface, highlighting the **importance of NQEs in understanding the water's properties at water-alumina interface**.
 
-<div class="home-sim">
+<div class="home-sim" style="text-align: center;">
   <img src="/assets/images/mineral.jpg"
        alt="Simulation summary"
-       class="home-sim-image">
+       class="home-sim-image"
+       width="400"/>
 </div>
 
 ### Thermodynamics of Lipid Assembly Formations

@@ -8,10 +8,11 @@ title: Home
 Ph.D. Candidate in the Remsing Lab  
 Department of Chemistry and Chemical Biology, Rutgers University
 
+Currently seeking a position as a Postdoctoral Research Associate starting Summer 2027 / Fall 2027.
+
 ## Research Interests
-- Nuclear quantum effects, water-mineral interfaces, hydrogen bonding structure and dynamics, computational spectroscopy
-- Membrane-mineral interfaces, thermodynamic theory, prebiotic chemistry, origins of life
-- Molecular dynamics simulations, path integral molecular dynamics, enhanced sampling techniques, statistical mechanics
+
+paragraph with research. bold, underline, colors. also mention community research and bring people together.
 
 
 <div class="home-sim">

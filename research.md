@@ -5,11 +5,11 @@ title: Research
 
 ### Thermodynamics of Lipid Assembly Formations
 
-Simple lipids are known to spontaneously aggregate to form micelles or bilayers. Could these lipids form micelles or bilyers at mineral surfaces? How? Why? Computational molecular dynamics (MD) simulations are used to model simple, single chain lipids at different types of mineral surfaces. We find that bulk water, interfacial water, and the mineral surface itself play unique roles in how lipids adsorb and form micelles at water-mineral interfaces.
+Simple lipids are known to spontaneously aggregate to form micelles or bilayers. Could these lipids form micelles or bilyers at mineral surfaces? How? Why? Computational molecular dynamics (MD) simulations are used to model simple, single chain lipids at different types of mineral surfaces. We find that **bulk water, interfacial water, and the mineral surface itself play unique roles in how lipids adsorb and form micelles** at water-mineral interfaces.
 
 ### Nuclear Quantum Effects at Water-Mineral Interfaces
 
-Nuclear quantum effects (NQEs) introduce significant structural and dynamical differences between water and heavy water at the alumina mineral interface, compared to their bulk counterparts. Water's OH and OD bond vibration frequencies and intermolecular couplings of water and heavy water differ significantly at the mineral surface, highlighting the importance of NQEs in understanding the water's properties at water-alumina interface.
+Nuclear quantum effects (NQEs) introduce significant structural and dynamical differences between water and heavy water at the alumina mineral interface, compared to their bulk counterparts. Water's OH and OD bond vibration frequencies and intermolecular couplings of water and heavy water differ significantly at the mineral surface, highlighting the **importance of NQEs in understanding the water's properties at water-alumina interface**.
 
 <div class="home-sim">
   <img src="/assets/images/mineral.jpg"

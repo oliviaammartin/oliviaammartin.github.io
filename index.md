@@ -18,11 +18,11 @@ Beyond my dissertation research, I am committed to **research mentoring and scie
 
 I am currently **seeking postdoctoral positions beginning in Summer/Fall 2027**, where I hope to apply and extend my skills in molecular dynamics simulations, statistical mechanics, and free energy calculations to water-protein and protein-protein interfaces. With this foundation, I aim to **investigate the microscopic characteristics at these interfaces and how they shape the macroscopic behavior of protein-protein and protein-drug interactions**.
 
-<div class="home-sim">
+<div class="home-sim" style="text-align: center;">
   <img src="/assets/images/micelle-mineral.jpg"
        alt="Simulation summary"
        class="home-sim-image"
-       width="200"/>
+       width="400"/>
 </div>
 
 

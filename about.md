@@ -28,7 +28,7 @@ title: About
     
   <figure class="photo-item">
      <img src="/assets/images/abgradcon.jpg" alt="Conference 3">
-    <figcaption>Astrobiology Science Conference, Madison, WI, 2026</figcaption>
+    <figcaption>Organizers of the 2026 Astrobiology Graduate Conference, Tucson, AZ</figcaption>
   </figure>   
 </div>
 

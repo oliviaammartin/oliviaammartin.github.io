@@ -27,7 +27,7 @@ title: About
   </figure>
     
   <figure class="photo-item">
-     <img src="/assets/images/abgradcon.jpg" alt="Conference 3">
+     <img src="/assets/images/abgradcon.JPEG" alt="Conference 3">
     <figcaption>Organizers of the 2026 Astrobiology Graduate Conference, Tucson, AZ</figcaption>
   </figure>   
 </div>

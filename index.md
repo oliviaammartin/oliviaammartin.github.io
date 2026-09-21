@@ -21,8 +21,10 @@ I am currently **seeking postdoctoral positions beginning in Summer/Fall 2027**,
 <div class="home-sim">
   <img src="/assets/images/micelle-mineral.jpg"
        alt="Simulation summary"
-       class="home-sim-image">
+       class="home-sim-image"
+       width="200"/>
 </div>
+
 
 {: .profile-links }
 <i class="fab fa-github"></i> [GitHub](https://github.com/oliviaammartin)

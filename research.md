@@ -11,7 +11,7 @@ Nuclear quantum effects (NQEs) introduce significant structural and dynamical di
   <img src="/assets/images/mineral.jpg"
        alt="Simulation summary"
        class="home-sim-image"
-       width="300"/>
+       width="200"/>
 </div>
 
 ### Thermodynamics of Lipid Assembly Formations

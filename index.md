@@ -23,7 +23,7 @@ I am currently **seeking a postdoctoral position beginning in the Summer/Fall of
   <img src="/assets/images/Picture1.jpg"
        alt="Simulation summary"
        class="home-sim-image"
-       width="200"/>
+       width="20"/>
 </div>
 
 

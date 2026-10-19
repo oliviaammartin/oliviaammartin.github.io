@@ -16,7 +16,7 @@ I am a Ph.D. candidate in the Department of Chemistry and Chemical Biology at Ru
 
 Beyond my dissertation research, I am committed to **research mentoring and science communication within the Rutgers community and beyond**. During my Ph.D., I have organized multiple conferences and seminars, including serving as the <a href="https://www.grc.org/chemistry-and-physics-of-liquids-grs-conference/2027/" target="_blank" rel="noopener">Chemistry and Physics of Liquids GRS</a> Co-Chair and as an Organizer and Director of Fundraising and Communications for the 2026 <a href="https://www.abgradcon.org/" target="_blank" rel="noopener">Astrobiology Graduate Conference</a>. 
 
-I am currently **seeking a postdoctoral position beginning in the Summer/Fall of 2027**, where I hope to apply and extend my skills in molecular dynamics simulations, statistical mechanics, and free energy calculations to complex water-interface systems.
+I am currently **seeking a postdoctoral position beginning in the Summer/Fall of 2027**, where I hope to apply and extend my skills in molecular dynamics simulations, statistical mechanics, and free energy calculations to complex interfacial systems.
 <!--With this foundation, I aim to **investigate the microscopic characteristics at these interfaces and how they shape the macroscopic behavior of protein-protein and protein-drug interactions**.-->
 
 <div class="home-sim" style="text-align: center;">

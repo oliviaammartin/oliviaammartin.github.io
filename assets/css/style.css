@@ -120,7 +120,7 @@ a:hover {
 }
 
 .home-sim-image {
-  width: 100%;
+  width: 50%;
   max-width: 900px;
   max-height: 500px;   
   object-fit: cover;

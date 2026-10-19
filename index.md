@@ -20,10 +20,10 @@ I am currently **seeking a postdoctoral position beginning in the Summer/Fall of
 <!--With this foundation, I aim to **investigate the microscopic characteristics at these interfaces and how they shape the macroscopic behavior of protein-protein and protein-drug interactions**.-->
 
 <div class="home-sim" style="text-align: center;">
-  <img src="/assets/images/micelle-mineral.jpg"
+  <img src="/assets/images/Picture1.jpg"
        alt="Simulation summary"
        class="home-sim-image"
-       width="300"/>
+       width="200"/>
 </div>
 
 
